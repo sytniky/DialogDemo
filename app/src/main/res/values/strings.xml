@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DialogDemo</string>
+    <string name="btn_yes">YES</string>
+    <string name="btn_no">NO</string>
+</resources>
